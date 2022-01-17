@@ -5,7 +5,7 @@
 				<div id="contactpost">
 					<h1>Contact Us</h1>
 					<p>Below is an example of how a contact form might look with this template:</p>
-					<form method="post" action="#">
+					<form method="post" action="">
 				        <div id="contactform">
 						<p><label for="name">Name</label><input type="user" name="name" id="name" placeholder="your name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'your name'" /></p> 
 						<p><label for="email">Email</label><input type="email" name="email" id="email" placeholder="your@email.com" onfocus="this.placeholder = ''" onblur="this.placeholder = 'your@email.com'" /></p> 

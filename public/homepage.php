@@ -27,19 +27,19 @@
 						<h1>Article 1</h1>
 						<img src="images/1.jpg" alt="" />
 						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet.</p>
-						<a href="singlepost.html" class="rm">En savoir plus...</a>
+						<a href="article.php" class="rm">En savoir plus...</a>
 					</article>
 					<article id="art-2">
 						<h1>Article 2</h1>
 						<img src="images/2.jpg" alt="" />
 						<p>Consectetuer adipiscing elit. Suspendisse enim elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit.</p>
-						<a href="singlepost.html" class="rm">En savoir plus...</a>
+						<a href="article.php" class="rm">En savoir plus...</a>
 					</article>
 					<article id="art-3">
 						<h1>Article 3</h1>
 						<img src="images/3.jpg" alt="" />
 						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit enim.</p>
-						<a href="singlepost.html" class="rm">En savoir plus...</a>
+						<a href="article.php" class="rm">En savoir plus...</a>
 					</article>
 				</div>
 			</section>
